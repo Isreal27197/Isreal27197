@@ -40,6 +40,5 @@ I document my engineering journey through practical projects, technical notes, a
 
 Connect
 
-- LinkedIn:https://www.linkedin.com/in/isrealayomitide
--
-X: https://X.com/ayomitide07
+- LinkedIn: https://www.linkedin.com/in/isrealayomitide
+- X: https://X.com/ayomitide07
