@@ -1,53 +1,45 @@
-# Hi, I'm Isreal Ayomitide 👋
+Hi, I'm Isreal 👋
 
-**CS + Mathematics student focused on ML Systems & AI Infrastructure.**
+Computer Science & Mathematics student at Obafemi Awolowo University, Nigeria.
 
-I'm building from the fundamentals toward production-grade machine learning systems:
+I'm exploring how to build reliable software systems, from low-level programming to distributed infrastructure and dependable AI systems.
 
-`Python → Machine Learning → Deep Learning → MLOps → Distributed Systems → AI Infrastructure`
+I learn by building, experimenting, testing, and documenting what I discover.
 
-### 🔨 What I'm Building
+Current Focus
 
-- 🐍 Python systems & developer tooling
-- 🤖 Classical & deep learning systems
-- ⚙️ Production ML APIs
-- 📦 Docker, testing & CI/CD
-- ☁️ Cloud-based ML systems
-- 🔄 Data & ML pipelines
-- 🌐 Distributed systems
-- 🚀 Efficient AI inference
+- Systems Programming
+- Operating Systems
+- Rust
+- Concurrency
+- Distributed Systems
+- Formal Methods
 
-### 📌 Current Focus
+My Learning Journey
 
-**ML Systems & AI Infrastructure**
+Area| Focus| Status
+Systems Foundations| Linux, OS internals, computer architecture| Upcoming
+Systems Programming| Rust, memory, ownership, concurrency| Upcoming
+Distributed Systems| Networking, replication, fault tolerance| Upcoming
+Formal Methods| Logic, specifications, verification| Upcoming
+Reliable AI Systems| Dependability, infrastructure, system integration| Upcoming
 
-I'm building and documenting projects that take me from ML fundamentals to scalable, production-oriented AI systems.
+Engineering Principles
 
-### 🧰 Current Stack
+- Understand before abstracting.
+- Build before claiming expertise.
+- Test assumptions.
+- Document failures and lessons.
+- Prefer correctness and reliability over shortcuts.
 
-**Languages:** Python · SQL · Bash  
-**ML:** NumPy · pandas · scikit-learn · PyTorch  
-**Backend:** FastAPI  
-**Engineering:** Git · Linux · Docker · CI/CD  
-**Cloud:** AWS  
-**Systems:** APIs · Networking · Distributed Systems
+Writing & Learning Logs
 
-### 🚀 Projects I'm Building
+I document my engineering journey through practical projects, technical notes, and detailed project write-ups.
 
-- **Python Toolkit** — reusable Python utilities built from scratch
-- **Real Dataset Investigation** — analysis using Nigerian datasets
-- **Classical ML System** — credit risk / fraud detection
-- **Deep Learning System** — PyTorch computer vision
-- **Production ML API** — FastAPI + Docker + CI/CD
-- **Scalable ML System** — caching, monitoring & load testing
-- **AI Infrastructure Flagship** — efficient model serving & inference
+"Learning Log" (https://github.com/Isreal27197)
 
-### 📚 Learning in Public
+Connect
 
-I'm documenting my journey from CS + Mathematics student to ML Systems / AI Infrastructure engineer.
-
-**[LinkedIn](https://www.linkedin.com/in/isrealayomitide/)** · **[X](https://x.com/Ayomitide07)**
-
----
-
-> **Build. Measure. Understand. Ship.**
+- LinkedIn:https://www.linkedin.com/in/isrealayomitide
+-
+X: https://X.com/ayomitide07
